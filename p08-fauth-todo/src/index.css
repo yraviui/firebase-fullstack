@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* table alternate rows color */
+table tbody tr:nth-child(even) {background-color: #f1f1f1 }
